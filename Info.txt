@@ -1,0 +1,10 @@
+DOM+EVent=>Recap of DOM
+
+=> Create an array of employee
+   (objectid,firstname,lastname,email,gender and ip_address of the emp-10 set of data)
+
+=> create 3 button in index.html (All Emp, Male emp,Female emp)
+
+=> Create search functionality
+
+=> 10 set of dataData should be displayed in the form of table.
